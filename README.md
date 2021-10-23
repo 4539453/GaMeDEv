@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- laylib 3.7
+- raylib 3.7
 
 ``` bash
 git clone https://github.com/raysan5/raylib.git
