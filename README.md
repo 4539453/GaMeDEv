@@ -5,13 +5,17 @@
 - raylib 3.7
 
 ``` bash
-git clone https://github.com/raysan5/raylib.git
+$ git clone https://github.com/raysan5/raylib.git
+$ cd raylib/src
+$ make
 ```
 
 - ferox
 
 ``` bash
-git clone https://github.com/dl2718/ferox.git
+$ git clone https://github.com/dl2718/ferox.git
+$ cd ferox
+$ make
 ```
 
 ## Tree
@@ -29,5 +33,7 @@ git clone https://github.com/dl2718/ferox.git
 ## Execute
 
 ``` bash
-cd bouncing-balls && make && ./bin/bouncing_balls
+$ cd bouncing-balls
+$ make
+$ ./bin/bouncing_balls
 ```
