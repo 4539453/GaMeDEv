@@ -1,6 +1,8 @@
 # GaMeDEv
 
-## Requirements
+## bouncing-balls
+
+### Requirements
 
 - raylib 3.7
 
@@ -18,7 +20,7 @@ $ cd ferox
 $ make
 ```
 
-## Tree
+### Tree
 
 ``` bash
 .
@@ -30,10 +32,11 @@ $ make
 
 ```
 
-## Execute
+### Execute
 
 ``` bash
 $ cd bouncing-balls
 $ make
 $ ./bin/bouncing_balls
 ```
+
